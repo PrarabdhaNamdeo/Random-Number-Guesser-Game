@@ -28,4 +28,9 @@ How to Play
 4.You have a limited number of lives. Don’t waste them!
 Try to guess the number before your attempts run out 💀
 
+🔮 Future Improvements
+1.Add timer mode ⏳
+2.Add leaderboard (best scores) 🏆
+3.Deploy with animations & sound effects 🎵
+
 To Play Visit : https://prarabdhanamdeo.github.io/Random-Number-Guesser-Game/
