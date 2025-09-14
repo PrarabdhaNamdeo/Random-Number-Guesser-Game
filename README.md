@@ -1,2 +1,19 @@
-# Random-Number-Guesser-Game
-🚀 Just finished building a Random Number Guessing Game 🎯  ✅ Built with HTML, CSS &amp; JavaScript ✅ Features:  Multiple Difficulty Levels (Easy/Medium/Hard)  Lives System ❤️ (limited attempts)  Interactive &amp; Stylish UI  This project started as a simple C++ console game, and I transformed it into a playable web app with an attractive frontend. 
+# 🎯 Random Number Guessing Game
+
+A fun and interactive **number guessing game** built with **HTML, CSS, and JavaScript**.  
+Originally created as a **C++ console game**, I transformed it into a **web-based game** with an attractive frontend and engaging features.
+
+# ✨ Features
+- 🎮 **3 Difficulty Levels**  
+  - Easy → Range **1–50**  
+  - Medium → Range **1–100**  
+  - Hard → Range **1–500**  
+- ❤️ **Lives System** – Limited attempts per round  
+- 🔄 **Restart Option** to play again instantly  
+- 🎨 **Attractive UI** with responsive design  
+- ⚡ Real-time feedback (**Too High / Too Low / Correct!**)
+
+- # 🛠️ Tech Stack
+- **HTML5** – Structure  
+- **CSS3** – Styling & layout  
+- **JavaScript** – Game logic & interactivity 
