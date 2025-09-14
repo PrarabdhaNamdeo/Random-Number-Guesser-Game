@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Random Number Guesser 🎲</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div></div>
+  <div class="game-container">
+    <h1>🎯 Random Number Guesser</h1>
+
+    <label for = "difficulty"><b>Choose Difficulty : </b></label>
+    <select id = "difficulty">
+        <option value = "50">Easy(1 to 50) </option>
+        <option value = "100">Medium(1 to 100) </option>
+        <option value = "500">Hard(1 to 500) </option>
+    </select>
+    
+    <p><b>Drop Your Guess Here </b></p>
+
+    <input type="number" id="guessInput" placeholder="Enter your guess">
+    <button id="guessBtn"><b>Guess</b></button>
+
+    <p id="message"></p>
+    <p id="Lives"></p>
+
+    <button id="restartBtn" style="display:none;">Restart 🔄</button>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
