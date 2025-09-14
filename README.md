@@ -17,3 +17,15 @@ Originally created as a **C++ console game**, I transformed it into a **web-base
 - **HTML5** – Structure  
 - **CSS3** – Styling & layout  
 - **JavaScript** – Game logic & interactivity 
+
+How to Play
+1.Select a difficulty level.
+2.Enter your guess in the input box.
+3.You’ll get hints:
+    📉 Too High
+    📈 Too Low
+    🎉 Correct!
+4.You have a limited number of lives. Don’t waste them!
+Try to guess the number before your attempts run out 💀
+
+To Play Visit : https://prarabdhanamdeo.github.io/Random-Number-Guesser-Game/
